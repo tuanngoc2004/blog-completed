@@ -1,0 +1,14 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.underline{
+    height: 5px;
+    width: 150px;
+    background-color: red;
+    border-radius: 20px;
+}
